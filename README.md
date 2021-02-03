@@ -1,4 +1,4 @@
-###基于springboot的个人博客（服务端）
+### 基于springboot的个人博客（服务端）
 
 - I created this project on February 3, 2021.
 
@@ -8,7 +8,7 @@
 
 - Date: 2021.02.03
 
-####Linux下运行服务：
+#### Linux下运行服务：
 
 - 查看已运行的java进程 ps -ef|grep java|grep -v grep
 
